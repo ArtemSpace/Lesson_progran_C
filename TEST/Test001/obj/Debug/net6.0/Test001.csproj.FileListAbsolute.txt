@@ -1,0 +1,15 @@
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\bin\Debug\net6.0\Test001.exe
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\bin\Debug\net6.0\Test001.deps.json
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\bin\Debug\net6.0\Test001.runtimeconfig.json
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\bin\Debug\net6.0\Test001.dll
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\bin\Debug\net6.0\Test001.pdb
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.csproj.AssemblyReference.cache
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.AssemblyInfoInputs.cache
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.AssemblyInfo.cs
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.csproj.CoreCompileInputs.cache
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.dll
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\refint\Test001.dll
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.pdb
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\Test001.genruntimeconfig.cache
+C:\Users\Фунт\Desktop\Lesson_program_C\TEST\Test001\obj\Debug\net6.0\ref\Test001.dll
